@@ -21,5 +21,5 @@ Este proyecto es una aplicación web simple que permite a los usuarios agregar n
 4. Se seleccionará un nombre aleatorio y se mostrará en pantalla.
 
 
-Hecho con ❤️ por Natali Ledesma para el curso de Oracle ONE dictado por Alura Latam
+Hecho por Natali Ledesma para el curso de Oracle ONE dictado por Alura Latam
 
